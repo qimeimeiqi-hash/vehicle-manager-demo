@@ -2,7 +2,8 @@
 
 中古車輸出業務向けに開発した**オフライン・デスクトップアプリ（Electron）**を、そのままブラウザで操作できるようにしたデモ版です。
 
-- **デモ**：https://qimeimeiqi-hash.github.io/vehicle-manager-demo/
+- **デモ（GitHub Pages）**：https://qimeimeiqi-hash.github.io/vehicle-manager-demo/
+- **デモ（Vercel）**：https://vehicle-manager-demo.vercel.app/
 - このリポジトリにはビルド済みのデモのみを置いています（ソースコードは非公開）。
 - 表示されるデータ・会社名（サンプル商事株式会社）・顧客名はすべて**架空のサンプル**です。
 
